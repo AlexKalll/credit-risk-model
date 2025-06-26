@@ -1,0 +1,5 @@
+# Virtual environment dir
+env/
+
+# project structure creation fil
+create_project_structure.py
