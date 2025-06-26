@@ -1,0 +1,12 @@
+# Project dependencies
+pandas
+numpy
+scikit-learn
+mlflow
+fastapi
+uvicorn
+pytest
+python-dotenv
+jupyter
+matplotlib
+seaborn
