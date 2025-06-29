@@ -3,3 +3,7 @@ env/
 
 # project structure creation fil
 create_project_structure.py
+
+# data
+data/raw
+data/processed
