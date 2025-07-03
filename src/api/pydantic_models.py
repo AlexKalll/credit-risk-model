@@ -1,7 +1,4 @@
 # src/api/pydantic_models.py
-"""
-Module for pydantic models
-"""
 
 from pydantic import BaseModel
 

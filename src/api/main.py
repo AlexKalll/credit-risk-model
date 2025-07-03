@@ -1,7 +1,4 @@
 # src/api/main.py
-"""
-Module for main
-"""
 
 from fastapi import FastAPI
 import mlflow.sklearn
