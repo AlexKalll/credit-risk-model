@@ -1,0 +1,10 @@
+# docker-compse.yml
+version: '3.8'
+services:
+  api:
+    build: .
+    network_mode: host
+    volumes:
+      - .:/app
+    environment:
+      - MLFLOW_TRACKING_URI=http://127.0.0.1:5000
